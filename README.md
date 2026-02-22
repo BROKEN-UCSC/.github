@@ -1,1 +1,5 @@
-# .github
+# Broad Research Oriented in Knowledge Exploration on Negligence (BROKEN)
+
+We are a research group dedicated to the exploration and deconstruction of systems, protocols, and concepts across the computing stack. Our primary goal is to identify breakpoints, flaws, vulnerabilities, and oversights in the design, implementation, and usage of modern data models, algorithms, information systems, and software systems.
+
+We focus particularly on issues that go undetected due to negligence, outdated assumptions, or hidden complexity. Our broader objective is to reveal how systems and ideas, often considered secure; stable; or complete, can be broken (i.e. made to behave unexpectedly, fail under certain conditions, reveal hidden flaws, or become susceptible to exploitation through unconventional use). By exposing these weaknesses, we help stakeholders anticipate misuse, reinforce assumptions, and improve implementation practices. In doing so, we may also challenge conventional definitions of correctness, security, and stability in both theory and practice.
